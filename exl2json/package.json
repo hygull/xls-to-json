@@ -1,0 +1,16 @@
+{
+  "name": "excel to json",
+  "version": "1.0.0",
+  "description": "Excel to json",
+  "main": "trial1.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "Rishikesh Agrawani",
+  "license": "ISC",
+  "dependencies": {
+    "excel-to-json": "^1.0.0",
+    "node-excel-to-json": "0.0.3",
+    "xls-to-json": "^0.4.0"
+  }
+}

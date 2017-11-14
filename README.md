@@ -55,16 +55,10 @@ node_xj({
 
 ```
 MacBook-Pro-2:exl2json admin$ node exl2json.js 
-[ { '21': '21',
-    Angula2: 'MongoDB',
-    'Arindita Saha': 'Kislaya Pant' },
-  { '21': '25',
-    Angula2: 'Node.js',
-    'Arindita Saha': 'Rishikesh Agrawani' },
-  { '21': '23',
-    Angula2: 'CBZ',
-    'Arindita Saha': 'Hemkesh Agrawani' },
-  { '21': '21',
-    Angula2: 'DCA',
-    'Arindita Saha': 'Malinikesh Agrawani' } ]
+MacBook-Pro-2:exl2json admin$ node exl2json.js 
+[ { Technology: 'MongoDB', Name: 'Kislaya Pant', Age: '21' },
+  { Technology: 'Node.js', Name: 'Rishikesh Agrawani', Age: '25' },
+  { Technology: 'CBZ', Name: 'Hemkesh Agrawani', Age: '23' },
+  { Technology: 'Angular 2', Name: 'Arindita Saha', Age: '21' },
+  { Technology: 'DCA', Name: 'Malinikesh Agrawani', Age: '22' } ]
 ```

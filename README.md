@@ -2,6 +2,23 @@
 
 Converting Excel files to json
 
+# Guide for windows users
+
+1) You will need to follow your own approach as path separators will be different in your case
+
+2) So after reading this guide, you just understand and run the commands on your windows system
+
+3) Few of the examples for you(windows users)
+
+```
+mkdir C:\Users\Rishikesh\Dekstop\exl2json
+
+cd C:\Users\Rishikesh\Dekstop\exl2json
+
+``` 
+
+Apart from that node related commands are same so you need to worry, lets move on.
+
 # Steps
 
 1) Create any folder somewhere in your system, eg. exl2json on Desktop

@@ -17,7 +17,7 @@ cd C:\Users\Rishikesh\Dekstop\exl2json
 
 ``` 
 
-Apart from that node related commands are same so you need to worry, lets move on.
+Apart from that node related commands are same so you need not to worry, lets move on.
 
 # Steps
 
